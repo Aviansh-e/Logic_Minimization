@@ -6,8 +6,7 @@ Targatable Points:-
   Work Done:-
   Espresso Algorithm:-
     ---Why
-        (1)..Get Efficient solution of minterm of any variable.
-        (2).. less time taken for computing the for the any variables.
+        (1)..Get Efficient solution of minterm of any number of the variable  and it us more efficient than the KMAP in time complexity
         
   
  
